@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Locomotionn/Idle_Break.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Locomotionn/Walk_Stop.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Crouched/Crouch_Idle.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Crouched/Crouh_Walk.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Locomotionn/LocomotionBlenSpace.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/ABP_RPG_Charactere.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Crouched/CrouchBlendSpace.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Lean/Lean_Left.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Lean/Lean_Right.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Lean/LeanBlendSpace.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/StarterContent/Particles/Materials/M_Spark.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Vaulting/VaultOver.uasset",
+				"C:/Users/drpvs/Documents/Unreal Projects/Rpg/Content/Characters/RPG_Character/Animation/Vaulting/VaultOver_Montage.uasset"
+			]
+		}
+	]
+}
